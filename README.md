@@ -1,4 +1,4 @@
-# AspCoreWebApiAdo
+# ASP.NET Core Web Api Demo
 ASP.NET Core Web API with ADO.NET.
 
 This is the entire code for the CRUD operation in ASP.NET Core Web API using ADO.NET.
